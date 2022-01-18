@@ -56,3 +56,13 @@ To create studb.o we use gcc -c -fPIC studdb.c -o studdb.o in cmd
 To create connection between python and studdb.o and we create libcalci.dll
 To create connection between libcalci.dll and python we use gcc studdb.o -shared -o libcalci.dll
 To create connetcion between libcalci.dll and studb.o we use gcc -shared -o libcalci.dll -fPIC studdb.c
+
+                                                                 Changes need in your pc
+If you need to use this file in your pc please change this two lines
+In main/authentication/views.py  in line number 19 change path according to your pc
+In  main/authentication/views.py in line number 80 change path according to your pc
+
+
+
+
+
