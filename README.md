@@ -45,7 +45,7 @@ For integration we use ctypes in Python
 For webframe work we used Django
 Django is a Python-based free and open-source web framework that follows the model–template–views architectural pattern.
 In Django we used Html to create websites
-To GUI we used CSS
+For GUI we used CSS
 To display imgs in websites we use javascript
 
 
