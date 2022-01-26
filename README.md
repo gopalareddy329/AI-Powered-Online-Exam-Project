@@ -3,7 +3,7 @@ Hello guys
 
 
 
-                                                       This project for protect online cheating up to some extent 
+                                                       This project useful for protect online cheating up to some extent 
 
 In this project we are used : -
 1) C Language
@@ -19,7 +19,7 @@ In this project we are used : -
 In C Language we created a database for Students Login with File Operation
 With File operations in C Language we created a text file database named as stdb.txt
 To create Invigilator Data base we integrated C language and Python.
-In C Language we use
+In C Language we used
 1)Functions
 2)Pointers
 3)File Operations 
@@ -35,11 +35,11 @@ In C Language we use
                                                                  
 In python we used Django
 For face detection we used Opencv
-We used time function in Python
+We used time functions in Python
 For integration we use ctypes in Python
 
 
-                                                               This project is website based project
+                                                               This project is web based project
                                                                
 
 For webframe work we used Django
